@@ -1,4 +1,4 @@
-# My-Presentation-Card
+# My Presentation Card Website
 A presentation card website using Flask.
 
 
